@@ -1,7 +1,7 @@
 # abhivw-eip4
 Abhijeet W's repo for EIP4
 
-#Assignment 1
+# Assignment 1
 
 print(score)
 
